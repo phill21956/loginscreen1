@@ -45,7 +45,7 @@ class _LoginPageState extends State<LoginPage> {
                                 ),
                               ),
                               Text(
-                                "Philip Inegbedion",
+                                "Philip-Inegbedion",
                                 style: TextStyle(
                                   fontSize: 20.0,
                                   
